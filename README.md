@@ -2,7 +2,7 @@
 
 This is a selfbot, based on [https://github.io/eslachance/evie.selfbot](Evie.Selfbot) by eslachance.
 
-CThis is here for [insert something here] purposes, but remember that:
+This is here for [insert something here] purposes, but remember that:
 > USING SELFBOTS IS [AGAINST THE DISCORD TERMS OF SERVICE](https://discordapp.com/developers/docs/topics/oauth2). I AM NOT RESPONSIBLE AND CANNOT BE HELD LIABLE IF YOU LOSE PRIVILEGES, GET KICKED OR BANNED FROM ANY SERVER OR FROM DISCORD.
 > So why does this still exist? Because we're all rebels and we like taking risks in order to get cool stuff.
 
